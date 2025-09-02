@@ -72,7 +72,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 @end
 
 -->
-<h1>Welcome</h1>
+## Welcome ##
 
 <svg xmlns='http://www.w3.org/2000/svg' width='1100' height='400' viewBox='0 0 800 450'>
   <!-- Background -->
@@ -3448,5 +3448,6 @@ Building Skills for Work and Life</p>
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 
 </div>
+
 
 
