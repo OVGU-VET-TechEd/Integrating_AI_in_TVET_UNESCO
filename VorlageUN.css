@@ -20,16 +20,16 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #F48221 !important; /* Orange für Überschriften */
+  color: #126ab5 !important; /* Orange für Überschriften */
 }
 
 a {
-  color: #F48221 !important; /* Orange für Links */
+  color: #126ab5 !important; /* Orange für Links */
 }
 
 /* Bulletpoints orange färben */
 ul li::marker {
-  color: #F48221 !important; /* Orange für Bullet-Points */
+  color: #126ab5 !important; /* Orange für Bullet-Points */
 }
 
 /* Fallback für LiaScript, falls ::marker nicht funktioniert */
@@ -40,7 +40,7 @@ ul li {
 }
 
 ul li:before {
-  color: #F48221 !important; /* Zusätzliche Regel für LiaScript-kompatible Bulletpoints */
+  color: #126ab5 !important; /* Zusätzliche Regel für LiaScript-kompatible Bulletpoints */
 }
 
 /* Footer-Logo */
@@ -111,7 +111,7 @@ ul li:before {
   flex: 1 !important;
   margin-right: 20px !important; /* Adds space between the columns */
   min-width: 250px !important; /* Mindestbreite für Spalten */
-  border: 2px solid #F48221 !important; /* Dickere durchgezogene orange Umrandung */
+  border: 2px solid #126ab5 !important; /* Dickere durchgezogene orange Umrandung */
   border-radius: 5px !important; /* Abgerundete Ecken */
   padding: 10px !important; /* Reduziertes Padding für besseren Abstand der Bulletpoints */
   box-sizing: border-box !important; /* Padding und Border in Breite einbeziehen */
@@ -151,8 +151,8 @@ ul li:before {
 
 /* Inhaltsbereich für Folie mit Einem Inhaltsbereich */
 .content-box {
-  background: #fff3e0 !important; /* Helles Orange */
-  border: 2px dashed #ff9800 !important; /* Gestrichelter, orange-farbener Rahmen */
+  background: #cfdeed !important; /* Helles Orange */
+  border: 2px dashed #126ab5 !important; /* Gestrichelter, orange-farbener Rahmen */
   border-radius: 10px !important; /* Abgerundete Ecken */
   padding: 1rem !important; /* Innenabstand */
   margin: 1rem 0 !important; /* Außenabstand */
