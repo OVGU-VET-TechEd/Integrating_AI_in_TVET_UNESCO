@@ -82,7 +82,7 @@ Hier kannst du Text, Aufzählungen oder Absätze einfügen.
   invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
 
 <!-- class="flex-child" style="min-width: 250px" -->
-![Beschreibung des Bildes](https://github.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/blob/main/FHW.png)
+![Beschreibung des Bildes](https://github.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/raw/main/FHW.png)
 
 </section>
 
@@ -105,7 +105,7 @@ Füge hier zusätzlichen Text ein, falls nötig.
 # Folie mit Bild (Vorlage)
 
 <figure class="image-container">
-  <img src="https://github.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/blob/main/FHW.png" alt="Beschreibung des Bildes">
+  <img src="https://github.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/raw/main/FHW.png" alt="Beschreibung des Bildes">
   <figcaption class="image-caption">Kurzer Text zum Bild.</figcaption>
 </figure>
 
