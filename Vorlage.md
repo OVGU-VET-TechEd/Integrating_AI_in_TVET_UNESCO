@@ -1,5 +1,5 @@
 <!-- 
-link: https://raw.githubusercontent.com/dabusse9/LiaTry/refs/heads/main/Vorlage.css
+link: https://raw.githubusercontent.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/refs/heads/main/Vorlage.css
 -->
 
 ## <span style="color:white">Titel</span>
