@@ -50,7 +50,7 @@ ul li:before {
   right: 20px !important;
   width: 150px !important; /* Breite des Logos */
   height: 75px !important; /* Höhe des Logos */
-  background-image: url('https://raw.githubusercontent.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/blob/main/UNESCO-UNEVOC_logo.png') !important;
+  background-image: url('https://raw.githubusercontent.com/OVGU-VET-TechEd/Integrating_AI_in_TVET_UNESCO/main/UNESCO-UNEVOC_logo.png') !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   z-index: 10000 !important; /* Hoher z-index für Sichtbarkeit */
